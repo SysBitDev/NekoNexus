@@ -1,5 +1,5 @@
 class Settings:
-    PROJECT_NAME: str = "My FastAPI Project"
-    PROJECT_VERSION: str = "1.0.0"
+    PROJECT_NAME: str = "MLmonitor"
+    PROJECT_VERSION: str = "0.1.0"
 
 settings = Settings()
